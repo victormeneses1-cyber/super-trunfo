@@ -21,7 +21,7 @@ O projeto está dividido em três níveis de dificuldade:
 - Uso de operador ternário
 - Tratamento de empate
 
-##  Tecnologias Utilizada//////s
+##  Tecnologias Utilizadas
 - Linguagem C
 - Estruturas condicionais (if/else e switch)
 - Operador ternário
